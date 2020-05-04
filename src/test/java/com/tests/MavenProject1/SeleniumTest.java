@@ -12,6 +12,7 @@ public class SeleniumTest {
 	@Test
 	public void UserRegistration(){
 		System.out.println("Registering user");
+		System.out.println("Ashvini Kalyan");
 	}
 	
 }
